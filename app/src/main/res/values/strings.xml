@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UIDemo</string>
+    <string-array name="title_array">
+        <item>首页</item>
+        <item>发现</item>
+        <item>我的</item>
+    </string-array>
+</resources>
